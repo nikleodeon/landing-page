@@ -15,10 +15,14 @@ footer {
     color: #F9FAF8;
 }
 
+nav,
+header {
+    padding: 20px 400px;
+}
+
 nav {
     display: flex;
     justify-content: space-between;
-    padding: 20px 300px;
 }
 
 .logo {
@@ -32,4 +36,41 @@ ul {
     list-style-type: none;
     display: flex;
     gap: 36px;
+}
+
+a {
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+header {
+    padding: 100px 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.left-content p {
+    
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+img {
+    margin-left: 40px;
+}
+
+button {
+    background-color: #3882F6;
+    border: none;
+    padding: 10px 36px;
+    border-radius: 10px;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: 800;
+    margin-top: 16px;
 }

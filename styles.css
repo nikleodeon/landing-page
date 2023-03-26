@@ -141,3 +141,8 @@ h3 {
 .right-call button {
     border: 1px solid #F9FAF8;
 }
+
+footer {
+    text-align: center;
+    padding: 50px 0;
+}

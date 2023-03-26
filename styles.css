@@ -73,3 +73,40 @@ button {
     font-weight: 800;
     margin-top: 16px;
 }
+
+.cards {
+    margin: 40px 500px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 38px;
+    font-weight: 800;
+    margin-bottom: 40px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.item {
+    width: 150px;
+}
+
+.image {
+    width: 150px;
+    height: 150px;
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.item p {
+    text-align: center;
+}
+
+.testimonial {
+    background-color: #E5E7EB;
+}

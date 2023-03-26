@@ -109,7 +109,7 @@ h2 {
 
 .testimonial {
     background-color: #E5E7EB;
-    padding: 60px 550px;
+    padding: 100px 550px;
 }
 
 blockquote {
@@ -121,4 +121,23 @@ blockquote {
 .testimonial p {
     font-weight: bold;
     text-align: end;
+}
+
+.bluebox {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 10px;
+    margin: 100px 400px;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.right-call button {
+    border: 1px solid #F9FAF8;
 }
